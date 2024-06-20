@@ -6,7 +6,7 @@
 
 ### Demo
 
-[https://currency-convrt.netlify.app](https://currency-convrt.netlify.app/)
+[https://currency999.vercel.app/](https://currency999.vercel.app/)
 
 
 ## Installation
